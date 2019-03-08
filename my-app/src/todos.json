@@ -1,0 +1,10 @@
+{
+  "todos": [
+    {
+      "title": "Task 1",
+      "responsible": "Rodrigo Bazan",
+      "description": "Example Task. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mattis, felis non rutrum tempor.",
+      "priority": "Low"
+    }
+  ]
+}
